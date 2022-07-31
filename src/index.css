@@ -1,0 +1,13 @@
+.header {
+  text-align: center;
+}
+
+.list > img{
+  width: 10px;
+}
+
+.list{
+  width: 300px;
+  display: flex;
+  justify-content: space-around;
+}
